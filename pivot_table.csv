@@ -1,0 +1,837 @@
+Nationality;Club;Acceleration;Age;Overall
+Argentina;AD Alcorcón;41,0;26,0;68,0
+Argentina;AEK Athens;76,0;21,5;72,0
+Argentina;AIK;87,0;24,0;67,0
+Argentina;AJ Auxerre;66,0;21,0;68,0
+Argentina;Ajax;85,0;25,0;80,0
+Argentina;Al Fayha;73,0;28,0;73,0
+Argentina;Alanyaspor;78,0;26,0;74,0
+Argentina;Albacete BP;68,0;31,0;72,5
+Argentina;Alianza Petrolera;53,0;32,0;64,0
+Argentina;América de Cali;34,0;34,0;66,0
+Argentina;Argentinos Juniors;70,0;22,0;64,0
+Argentina;Arsenal;59,0;25,0;72,0
+Argentina;Ascoli;53,0;29,0;67,0
+Argentina;Atalanta;90,0;28,0;78,0
+Argentina;Atlanta United;71,0;23,0;72,0
+Argentina;Atlético Bucaramanga;87,0;31,0;68,0
+Argentina;Atlético Huila;62,0;31,5;63,0
+Argentina;Atlético Madrid;87,0;23,0;81,0
+Argentina;Atlético Nacional;67,0;30,0;73,0
+Argentina;Atlético Tucumán;68,5;28,0;69,5
+Argentina;Audax Italiano;57,0;28,5;64,5
+Argentina;Bayer 04 Leverkusen;71,0;25,0;79,0
+Argentina;Beijing Renhe FC;69,0;32,0;80,0
+Argentina;Belgrano de Córdoba;68,0;23,5;65,5
+Argentina;Boavista FC;57,0;28,0;68,0
+Argentina;Boca Juniors;69,0;27,0;75,0
+Argentina;Bologna;62,5;31,0;73,5
+Argentina;Bursaspor;31,0;29,0;70,0
+Argentina;CD Antofagasta;72,0;24,5;66,0
+Argentina;CD Aves;68,0;27,0;68,0
+Argentina;CD Everton de Viña del Mar;81,0;30,0;72,0
+Argentina;CD Feirense;83,0;24,0;68,0
+Argentina;CD Huachipato;46,0;29,0;61,0
+Argentina;CD Leganés;57,0;27,0;74,0
+Argentina;CD Nacional;60,0;31,0;73,0
+Argentina;CD O'Higgins;71,0;26,0;66,5
+Argentina;CD Palestino;55,0;27,0;67,0
+Argentina;CD Tenerife;54,0;32,0;68,0
+Argentina;CD Universidad de Concepción;58,0;29,0;69,0
+Argentina;CF Rayo Majadahonda;69,0;22,0;66,0
+Argentina;Cagliari;78,0;29,0;78,0
+Argentina;Chelsea;43,0;36,0;76,0
+Argentina;Chicago Fire;73,0;27,0;65,0
+Argentina;Club América;51,0;27,5;73,0
+Argentina;Club Atlas;62,0;30,0;75,0
+Argentina;Club Atlético Aldosivi;67,0;27,5;66,0
+Argentina;Club Atlético Banfield;66,0;22,0;66,0
+Argentina;Club Atlético Colón;65,0;24,0;70,0
+Argentina;Club Atlético Huracán;66,5;27,0;69,5
+Argentina;Club Atlético Lanús;71,0;24,5;67,5
+Argentina;Club Atlético Talleres;64,0;22,0;64,5
+Argentina;Club Atlético Tigre;68,0;29,0;69,0
+Argentina;Club Deportes Temuco;65,0;29,0;64,0
+Argentina;Club León;73,0;31,5;73,0
+Argentina;Club Necaxa;82,5;26,0;72,5
+Argentina;Club Tijuana;66,0;26,5;72,0
+Argentina;Clube Sport Marítimo;77,5;26,0;70,5
+Argentina;Colo-Colo;61,0;31,0;72,0
+Argentina;Columbus Crew SC;69,0;28,0;71,0
+Argentina;Crotone;61,0;22,0;68,0
+Argentina;Cruz Azul;62,0;28,0;74,0
+Argentina;Crystal Palace;42,0;39,0;68,0
+Argentina;Curicó Unido;59,0;28,0;64,0
+Argentina;Cádiz CF;54,0;27,0;67,0
+Argentina;DC United;80,5;23,5;75,0
+Argentina;Dalian YiFang FC;84,0;30,0;82,0
+Argentina;Defensa y Justicia;69,5;23,5;67,5
+Argentina;Deportes Iquique;76,0;30,0;67,0
+Argentina;Deportivo Alavés;71,0;24,0;77,0
+Argentina;Deportivo Cali;47,0;37,0;77,0
+Argentina;Deportivo Pasto;58,0;25,0;64,0
+Argentina;Deportivo Toluca;61,5;29,0;73,5
+Argentina;Deportivo de La Coruña;78,5;28,5;74,0
+Argentina;Eintracht Frankfurt;76,0;31,0;79,0
+Argentina;Estudiantes de La Plata;65,0;25,0;68,0
+Argentina;Ettifaq FC;79,0;25,0;69,0
+Argentina;Extremadura UD;80,0;29,0;68,0
+Argentina;FC Barcelona;91,0;31,0;94,0
+Argentina;FC Dallas;77,0;27,0;73,0
+Argentina;FC Girondins de Bordeaux;61,0;22,0;73,0
+Argentina;FC Nantes;56,0;27,0;78,0
+Argentina;FC Schalke 04;68,0;29,0;75,0
+Argentina;FC St. Gallen;58,0;21,0;61,0
+Argentina;Fiorentina;65,5;24,5;78,5
+Argentina;Foggia;55,0;40,0;76,0
+Argentina;Fulham;79,0;24,0;76,0
+Argentina;Genoa;59,0;25,5;72,5
+Argentina;Getafe CF;49,0;28,0;77,0
+Argentina;Gimnasia y Esgrima La Plata;71,0;22,5;66,0
+Argentina;Godoy Cruz;66,0;22,0;62,0
+Argentina;Granada CF;73,0;27,0;72,0
+Argentina;Göztepe SK;67,5;28,5;68,5
+Argentina;Hebei China Fortune FC;77,0;33,5;79,5
+Argentina;Hellas Verona;69,0;21,0;68,0
+Argentina;Houston Dynamo;75,0;23,0;70,0
+Argentina;Independiente;74,0;26,0;74,0
+Argentina;Independiente Medellín;70,5;28,0;70,0
+Argentina;Inter;79,5;22,5;83,0
+Argentina;Jaguares de Córdoba;55,0;33,0;61,0
+Argentina;Junior FC;79,0;29,0;73,0
+Argentina;Juventus;87,0;24,0;89,0
+Argentina;La Equidad;74,0;25,0;65,0
+Argentina;Lazio;76,0;23,0;78,0
+Argentina;Lech Poznań;65,0;25,0;64,0
+Argentina;Lobos BUAP;69,0;28,0;68,0
+Argentina;Manchester City;74,0;30,0;85,0
+Argentina;Manchester United;57,5;29,5;79,5
+Argentina;Milan;69,0;30,0;82,0
+Argentina;Millonarios FC;89,0;31,0;72,0
+Argentina;Monarcas Morelia;69,5;31,0;72,0
+Argentina;Monterrey;60,0;32,0;74,0
+Argentina;Montreal Impact;72,5;29,0;74,0
+Argentina;Moreirense FC;78,0;28,0;69,0
+Argentina;Málaga CF;69,0;26,0;73,0
+Argentina;New England Revolution;67,0;25,0;63,0
+Argentina;New York City FC;76,0;25,0;69,5
+Argentina;Newcastle United;47,0;29,0;76,0
+Argentina;Newell's Old Boys;60,0;27,0;67,0
+Argentina;Norwich City;69,0;21,0;72,0
+Argentina;Nottingham Forest;49,0;30,0;73,0
+Argentina;OGC Nice;48,0;25,0;77,0
+Argentina;Olympique de Marseille;78,0;23,0;77,0
+Argentina;PAOK;55,0;27,0;74,0
+Argentina;PSV;75,0;19,0;70,0
+Argentina;Pachuca;77,0;29,0;73,0
+Argentina;Panathinaikos FC;71,0;27,0;72,0
+Argentina;Paris Saint-Germain;85,0;30,0;84,0
+Argentina;Patriotas Boyacá FC;50,0;29,0;63,0
+Argentina;Patronato;63,5;28,0;67,0
+Argentina;Pescara;34,0;38,0;70,0
+Argentina;Portland Timbers;77,0;27,5;72,5
+Argentina;Puebla FC;79,0;20,0;59,0
+Argentina;Querétaro;56,0;29,0;70,5
+Argentina;RC Celta;49,5;31,5;75,5
+Argentina;RCD Mallorca;48,0;27,0;66,0
+Argentina;Racing Club;75,0;26,0;72,0
+Argentina;Rayo Vallecano;67,0;30,0;77,0
+Argentina;Real Betis;72,0;22,0;80,0
+Argentina;Real Madrid;68,0;20,0;65,0
+Argentina;Real Oviedo;50,0;31,5;72,0
+Argentina;Real Salt Lake;70,0;19,0;60,0
+Argentina;Real Sociedad;54,0;26,0;80,0
+Argentina;Real Valladolid CF;72,0;22,0;72,0
+Argentina;Real Zaragoza;45,0;32,0;73,0
+Argentina;Rionegro Águilas;80,0;29,0;69,0
+Argentina;River Plate;65,0;25,0;73,0
+Argentina;Roma;69,0;29,0;82,0
+Argentina;Rosario Central;67,0;24,0;67,0
+Argentina;SD Eibar;77,5;27,5;76,0
+Argentina;SD Huesca;42,0;24,0;70,0
+Argentina;SL Benfica;70,0;27,0;77,0
+Argentina;SV Wehen Wiesbaden;63,0;27,0;65,0
+Argentina;San Lorenzo de Almagro;65,0;23,0;69,0
+Argentina;San Luis de Quillota;74,5;26,5;65,0
+Argentina;San Martin de Tucumán;60,5;26,0;66,0
+Argentina;San Martín de San Juan;63,0;27,0;65,0
+Argentina;Santos Laguna;56,0;27,5;73,5
+Argentina;Sevilla FC;68,0;30,0;82,0
+Argentina;Sporting CP;73,0;26,0;79,5
+Argentina;Stade de Reims;68,0;30,0;73,0
+Argentina;Tiburones Rojos de Veracruz;48,0;30,0;67,0
+Argentina;Tigres U.A.N.L.;70,0;29,5;76,0
+Argentina;Torino;75,0;31,0;78,0
+Argentina;Toronto FC;77,0;23,0;73,0
+Argentina;Tottenham Hotspur;71,0;26,0;74,0
+Argentina;Trabzonspor;73,0;31,0;72,5
+Argentina;U.N.A.M.;75,0;32,0;72,5
+Argentina;UD Almería;51,5;28,5;69,0
+Argentina;UD Las Palmas;50,0;33,0;73,0
+Argentina;US Salernitana 1919;66,0;24,0;68,0
+Argentina;Udinese;73,0;24,0;74,0
+Argentina;Universidad Católica;61,0;31,0;72,0
+Argentina;Universidad de Chile;75,0;29,0;70,0
+Argentina;Unión Española;67,0;27,0;68,0
+Argentina;Unión La Calera;63,0;29,0;66,5
+Argentina;Unión de Santa Fe;71,0;23,5;66,0
+Argentina;Valencia CF;34,0;31,0;82,0
+Argentina;VfB Stuttgart;75,0;21,0;76,0
+Argentina;Villarreal CF;61,0;27,0;76,0
+Argentina;Vélez Sarsfield;70,0;21,0;65,0
+Argentina;Watford;75,0;27,0;80,0
+Argentina;West Ham United;67,0;29,0;78,5
+Brazil;1. FC Nürnberg;66,5;25,5;75,0
+Brazil;AEK Athens;71,0;27,0;71,5
+Brazil;AS Béziers;60,5;30,0;65,0
+Brazil;AS Monaco;70,0;25,0;78,0
+Brazil;AS Saint-Étienne;75,0;27,0;73,0
+Brazil;Ajax;85,0;21,0;79,0
+Brazil;Akhisar Belediyespor;65,5;30,0;71,0
+Brazil;Al Ahli;68,0;29,0;79,0
+Brazil;Al Batin;54,0;29,0;68,0
+Brazil;Al Faisaly;78,0;29,0;70,0
+Brazil;Al Fateh;66,0;25,0;67,0
+Brazil;Al Fayha;64,0;28,0;67,0
+Brazil;Al Hazem;70,0;25,0;69,0
+Brazil;Al Hilal;65,0;28,0;77,0
+Brazil;Al Ittihad;76,5;26,5;71,5
+Brazil;Al Nassr;72,0;28,0;78,0
+Brazil;Al Qadisiyah;76,5;25,5;70,0
+Brazil;Al Raed;54,0;30,0;70,0
+Brazil;Al Shabab;76,0;26,5;69,5
+Brazil;Al Taawoun;70,0;29,0;70,0
+Brazil;Al Wehda;73,0;28,0;74,0
+Brazil;Alanyaspor;67,0;30,0;73,5
+Brazil;Albacete BP;84,0;19,0;63,0
+Brazil;Amiens SC;36,0;28,0;76,0
+Brazil;América FC (Minas Gerais);68,0;30,0;71,0
+Brazil;América de Cali;49,0;25,0;63,0
+Brazil;Antalyaspor;69,0;32,0;72,0
+Brazil;Arka Gdynia;67,0;34,0;61,0
+Brazil;Atalanta;66,0;27,0;78,0
+Brazil;Atlético Madrid;49,0;25,5;73,0
+Brazil;Atlético Mineiro;72,5;30,0;73,0
+Brazil;Atlético Paranaense;68,0;30,0;70,0
+Brazil;Audax Italiano;91,0;23,0;69,0
+Brazil;BB Erzurumspor;74,0;26,0;69,0
+Brazil;BK Häcken;79,0;32,0;73,0
+Brazil;Bahia;67,5;30,0;70,5
+Brazil;Bayer 04 Leverkusen;85,0;20,5;74,0
+Brazil;Beijing Sinobo Guoan FC;66,0;30,0;81,0
+Brazil;Beşiktaş JK;76,5;33,5;77,5
+Brazil;Boavista FC;51,5;26,5;67,0
+Brazil;Bologna;45,5;34,0;74,0
+Brazil;Borussia Mönchengladbach;74,0;33,0;81,0
+Brazil;Botafogo;69,0;32,0;71,5
+Brazil;Brescia;75,0;24,0;68,0
+Brazil;Brighton & Hove Albion;74,0;23,0;75,0
+Brazil;Brisbane Roar;76,0;33,0;65,0
+Brazil;Bursaspor;78,0;23,0;72,0
+Brazil;CD Aves;70,5;28,0;69,5
+Brazil;CD Feirense;44,0;27,0;70,0
+Brazil;CD Nacional;48,0;27,0;69,0
+Brazil;CD Tondela;60,0;29,0;67,0
+Brazil;Cagliari;75,0;28,0;75,0
+Brazil;Ceará Sporting Club;67,5;30,0;68,0
+Brazil;Cerezo Osaka;63,0;30,0;71,0
+Brazil;Chapecoense;67,5;30,0;70,0
+Brazil;Chelsea;70,0;29,0;83,0
+Brazil;Chongqing Dangdai Lifan FC SWM Team;83,5;27,5;73,5
+Brazil;Club Brugge KV;65,0;22,0;72,0
+Brazil;Clube Sport Marítimo;61,0;25,0;70,0
+Brazil;Columbus Crew SC;65,0;22,0;71,0
+Brazil;Cracovia;71,0;26,0;61,0
+Brazil;Cruzeiro;67,0;30,0;71,5
+Brazil;Curicó Unido;73,0;20,0;53,0
+Brazil;Daegu FC;59,0;28,0;67,0
+Brazil;Deportivo Alavés;62,0;24,0;76,0
+Brazil;Deportivo Toluca;72,0;31,0;70,0
+Brazil;Dynamo Kyiv;78,0;25,0;75,0
+Brazil;Eintracht Frankfurt;66,0;21,0;69,0
+Brazil;Ettifaq FC;75,0;24,0;69,0
+Brazil;Everton;88,5;23,0;79,5
+Brazil;FC Augsburg;77,0;29,0;77,0
+Brazil;FC Barcelona;79,0;23,0;82,0
+Brazil;FC Bayern München;76,0;32,0;76,0
+Brazil;FC Dallas;78,0;24,0;68,0
+Brazil;FC Energie Cottbus;48,0;24,0;64,0
+Brazil;FC Girondins de Bordeaux;61,0;25,5;76,5
+Brazil;FC Ingolstadt 04;78,5;25,0;67,0
+Brazil;FC Lorient;51,0;34,0;67,0
+Brazil;FC Lugano;87,0;23,0;68,0
+Brazil;FC Luzern;50,0;25,0;66,0
+Brazil;FC Midtjylland;67,0;20,0;66,0
+Brazil;FC Nantes;73,0;25,5;75,0
+Brazil;FC Porto;77,5;24,0;78,0
+Brazil;FC Red Bull Salzburg;40,0;23,5;69,0
+Brazil;FC Schalke 04;60,0;35,0;85,0
+Brazil;FC Seoul;78,5;27,0;67,0
+Brazil;FC Sion;61,5;25,0;67,0
+Brazil;FC Tokyo;76,0;29,0;72,0
+Brazil;FK Austria Wien;74,0;22,0;68,0
+Brazil;FK Bodø/Glimt;38,0;25,0;62,0
+Brazil;Fenerbahçe SK;73,0;22,0;67,0
+Brazil;Feyenoord;35,0;30,0;76,0
+Brazil;Fiorentina;67,5;24,0;74,5
+Brazil;Fluminense;63,0;30,0;72,0
+Brazil;Foggia;80,0;30,0;68,0
+Brazil;GD Chaves;70,5;26,0;70,5
+Brazil;Galatasaray SK;61,0;30,0;79,0
+Brazil;Gamba Osaka;74,0;26,5;68,0
+Brazil;Gangwon FC;84,0;27,0;67,0
+Brazil;Genoa;62,0;29,0;75,0
+Brazil;Girona FC;65,0;20,0;73,0
+Brazil;Granada CF;65,0;22,0;64,0
+Brazil;Grasshopper Club Zürich;76,0;23,0;65,0
+Brazil;Grêmio;72,5;30,0;74,0
+Brazil;Guangzhou Evergrande Taobao FC;78,5;27,5;81,0
+Brazil;"Guangzhou R&F; FC";71,5;29,0;74,5
+Brazil;Gyeongnam FC;83,0;26,0;69,0
+Brazil;Göztepe SK;40,0;30,0;73,0
+Brazil;HJK Helsinki;61,0;28,5;65,0
+Brazil;Hamburger SV;77,0;24,0;76,0
+Brazil;Hammarby IF;72,0;21,0;66,0
+Brazil;Hannover 96;51,0;27,0;72,5
+Brazil;Hebei China Fortune FC;64,0;33,0;78,0
+Brazil;Hellas Verona;67,0;24,5;67,5
+Brazil;Henan Jianye FC;71,0;29,0;71,5
+Brazil;Houston Dynamo;32,0;30,0;68,0
+Brazil;Hull City;69,0;31,0;71,0
+Brazil;Inter;78,5;28,5;80,5
+Brazil;Internacional;70,0;30,0;73,5
+Brazil;Jagiellonia Białystok;81,0;28,0;71,0
+Brazil;Jaguares de Córdoba;78,0;25,0;63,0
+Brazil;Jeju United FC;68,0;30,0;68,0
+Brazil;Jeonbuk Hyundai Motors;72,0;27,0;71,0
+Brazil;Jeonnam Dragons;75,5;27,5;65,5
+Brazil;Jiangsu Suning FC;93,0;28,0;79,0
+Brazil;Juventus;90,0;27,0;86,0
+Brazil;Júbilo Iwata;69,0;27,0;67,0
+Brazil;KAA Gent;46,0;26,0;72,0
+Brazil;KSV Cercle Brugge;78,0;18,0;62,0
+Brazil;KV Kortrijk;65,0;30,0;69,0
+Brazil;KV Oostende;83,0;26,0;72,0
+Brazil;Kalmar FF;72,0;25,5;66,5
+Brazil;Kashima Antlers;68,0;25,0;68,0
+Brazil;Kashiwa Reysol;75,5;29,5;71,5
+Brazil;Kawasaki Frontale;70,0;25,0;66,0
+Brazil;LASK Linz;89,0;24,0;69,0
+Brazil;LOSC Lille;69,0;21,0;74,0
+Brazil;Lazio;67,0;23,0;77,0
+Brazil;Le Havre AC;69,0;21,0;64,0
+Brazil;Liverpool;69,0;25,0;85,0
+Brazil;Livorno;77,0;24,0;63,5
+Brazil;Lobos BUAP;87,0;21,0;62,0
+Brazil;Los Angeles FC;72,0;31,0;71,0
+Brazil;MSV Duisburg;84,0;22,0;70,0
+Brazil;Manchester City;70,5;25,0;84,5
+Brazil;Manchester United;77,5;23,5;80,0
+Brazil;Medipol Başakşehir FK;80,0;31,5;76,0
+Brazil;Minnesota United FC;67,0;30,0;68,0
+Brazil;Montpellier HSC;33,0;40,0;78,0
+Brazil;Moreirense FC;62,0;26,0;69,0
+Brazil;Nagoya Grampus;67,5;29,0;69,5
+Brazil;Napoli;81,0;27,0;83,0
+Brazil;New England Revolution;69,0;17,0;48,0
+Brazil;Newcastle Jets;77,0;29,0;71,0
+Brazil;Newcastle United;79,0;22,0;76,0
+Brazil;OGC Nice;52,5;28,0;77,5
+Brazil;Ohod Club;78,5;20,0;64,5
+Brazil;Olympiacos CFP;60,0;27,0;75,0
+Brazil;Olympique Lyonnais;79,0;29,0;79,0
+Brazil;Olympique de Marseille;65,0;30,0;83,0
+Brazil;Orlando City SC;76,0;25,5;64,5
+Brazil;Orlando Pirates;66,0;20,0;60,0
+Brazil;Os Belenenses;55,0;24,0;67,0
+Brazil;PAOK;78,0;29,0;76,0
+Brazil;PFC CSKA Moscow;56,0;22,0;71,0
+Brazil;PSV;82,0;19,0;70,0
+Brazil;Pachuca;63,0;25,0;62,0
+Brazil;Paraná;67,5;34,0;69,0
+Brazil;Paris FC;71,0;27,0;66,0
+Brazil;Paris Saint-Germain;75,0;29,5;86,0
+Brazil;Perugia;38,0;25,0;74,0
+Brazil;Philadelphia Union;66,5;32,5;66,5
+Brazil;Pohang Steelers;52,0;31,0;67,0
+Brazil;Portimonense SC;62,5;24,0;67,5
+Brazil;Querétaro;76,5;26,5;71,0
+Brazil;RB Leipzig;78,0;19,0;70,0
+Brazil;RCD Espanyol;59,0;27,0;76,5
+Brazil;Real Betis;65,0;28,0;79,0
+Brazil;Real Madrid;83,0;26,0;88,0
+Brazil;Real Sociedad;62,0;26,0;82,0
+Brazil;Real Zaragoza;61,5;25,0;66,0
+Brazil;Rio Ave FC;70,0;23,0;69,0
+Brazil;Roma;53,5;23,5;71,5
+Brazil;Royal Antwerp FC;52,0;26,0;70,0
+Brazil;SC Braga;63,0;25,0;75,0
+Brazil;SD Eibar;64,0;34,0;79,0
+Brazil;SD Huesca;55,0;24,0;60,0
+Brazil;SKN St. Pölten;55,0;22,0;63,0
+Brazil;SL Benfica;65,0;32,0;82,0
+Brazil;SPAL;50,5;31,5;71,0
+Brazil;Sampdoria;65,5;24,5;69,5
+Brazil;Sanfrecce Hiroshima;67,0;29,0;71,5
+Brazil;Santa Clara;58,0;25,0;68,5
+Brazil;Santos;63,0;30,0;70,5
+Brazil;Santos Laguna;63,0;23,0;74,0
+Brazil;Sassuolo;71,0;21,0;72,5
+Brazil;Sevilla FC;77,0;21,0;74,0
+Brazil;Shakhtar Donetsk;80,0;27,0;74,0
+Brazil;Shandong Luneng TaiShan FC;72,0;31,0;76,0
+Brazil;Shanghai SIPG FC;81,0;28,0;81,0
+Brazil;Shimizu S-Pulse;74,0;28,0;69,0
+Brazil;Shonan Bellmare;50,0;34,0;67,0
+Brazil;Sint-Truidense VV;73,0;26,0;62,0
+Brazil;Sivasspor;66,5;29,0;72,5
+Brazil;Spartak Moscow;74,5;24,5;75,5
+Brazil;Sport Club do Recife;66,0;30,0;69,0
+Brazil;Sporting CP;71,0;28,0;76,5
+Brazil;Standard de Liège;73,0;24,0;70,0
+Brazil;Suwon Samsung Bluewings;74,0;28,0;70,0
+Brazil;SønderjyskE;73,0;27,0;59,0
+Brazil;TSG 1899 Hoffenheim;78,0;22,0;72,0
+Brazil;Tianjin Quanjian FC;84,0;28,0;80,0
+Brazil;Tigres U.A.N.L.;74,0;29,0;77,0
+Brazil;Torino;59,5;21,0;71,0
+Brazil;Toronto FC;77,0;22,0;69,0
+Brazil;Tottenham Hotspur;94,0;25,0;83,0
+Brazil;US Cremonese;65,0;32,0;71,0
+Brazil;US Salernitana 1919;70,0;18,0;62,0
+Brazil;Udinese;66,0;23,0;73,0
+Brazil;Ulsan Hyundai FC;68,0;31,0;66,0
+Brazil;Universidad de Chile;65,0;29,0;74,0
+Brazil;Urawa Red Diamonds;66,0;27,0;74,5
+Brazil;Valencia CF;62,0;27,5;82,5
+Brazil;Valenciennes FC;52,0;26,5;58,5
+Brazil;Vancouver Whitecaps FC;71,0;27,0;72,0
+Brazil;Vegalta Sendai;61,5;24,5;65,0
+Brazil;Vejle Boldklub;53,0;21,0;60,5
+Brazil;Vendsyssel FF;68,0;27,0;64,0
+Brazil;VfL Bochum 1848;77,0;26,0;72,0
+Brazil;VfL Wolfsburg;78,0;23,0;74,0
+Brazil;Vissel Kobe;58,0;30,0;67,0
+Brazil;Vitória;70,5;30,0;70,0
+Brazil;Vitória Guimarães;69,0;25,5;74,0
+Brazil;Vitória de Setúbal;61,0;26,0;69,0
+Brazil;Watford;50,0;37,0;77,0
+Brazil;West Ham United;93,0;25,0;83,0
+Brazil;Wisła Płock;73,0;28,0;66,0
+Brazil;Wolverhampton Wanderers;68,0;24,0;73,0
+Brazil;Yeni Malatyaspor;90,0;27,0;73,0
+Brazil;Yeovil Town;75,0;23,0;60,0
+Brazil;Yokohama F. Marinos;64,0;23,0;68,0
+Brazil;Zagłębie Sosnowiec;57,0;25,0;59,0
+Brazil;Çaykur Rizespor;70,0;29,0;71,0
+Brazil;Örebro SK;66,0;22,0;58,0
+France;1. FC Köln;74,5;22,0;73,5
+France;1. FC Magdeburg;61,0;28,0;67,0
+France;1. FSV Mainz 05;69,0;22,0;73,0
+France;AC Ajaccio;64,5;28,5;67,0
+France;AJ Auxerre;61,0;25,0;66,0
+France;AS Béziers;74,0;24,0;62,0
+France;AS Monaco;75,0;20,0;65,5
+France;AS Nancy Lorraine;67,0;22,0;65,0
+France;AS Saint-Étienne;74,0;26,5;73,0
+France;Al Hilal;69,0;32,0;81,0
+France;Albacete BP;76,0;23,5;65,5
+France;Amiens SC;64,0;24,0;69,0
+France;Angers SCO;63,5;25,5;72,0
+France;Antalyaspor;71,0;29,0;71,0
+France;Arsenal;66,0;27,0;82,0
+France;Atlético Madrid;86,0;22,0;83,0
+France;BB Erzurumspor;63,5;28,0;68,5
+France;BSC Young Boys;45,0;34,0;77,0
+France;Barnsley;64,0;23,0;69,0
+France;Benevento;56,0;24,0;67,0
+France;Birmingham City;75,0;26,0;71,0
+France;Boavista FC;64,0;23,0;69,0
+France;Bologna;61,0;31,0;77,0
+France;Borussia Dortmund;63,5;20,5;77,0
+France;Borussia Mönchengladbach;78,0;20,0;72,0
+France;Bournemouth;75,0;22,0;70,0
+France;Brentford;68,0;25,0;72,0
+France;Brighton & Hove Albion;75,0;26,0;76,0
+France;Brisbane Roar;77,0;30,0;74,0
+France;CD Aves;55,0;24,0;68,0
+France;CD Tenerife;84,0;32,0;68,0
+France;CF Rayo Majadahonda;72,0;23,0;68,0
+France;Cardiff City;63,0;27,0;69,0
+France;Carpi;75,0;22,0;73,0
+France;Celtic;81,5;21,0;73,0
+France;Chamois Niortais Football Club;65,5;22,0;63,5
+France;Charlton Athletic;34,0;24,0;67,0
+France;Chelsea;62,5;29,0;85,5
+France;Cheltenham Town;69,0;28,0;61,0
+France;Chievo Verona;53,0;27,0;65,5
+France;Clermont Foot 63;66,5;21,5;65,0
+France;Club América;69,0;31,0;73,0
+France;Club Brugge KV;34,0;30,0;74,0
+France;Colchester United;65,0;23,0;63,0
+France;Cosenza;75,0;32,0;66,0
+France;Coventry City;69,0;28,5;64,5
+France;Crawley Town;60,0;32,0;69,0
+France;Crystal Palace;49,0;28,0;79,0
+France;Cádiz CF;65,0;28,0;67,0
+France;Córdoba CF;59,0;23,0;66,0
+France;DC United;34,0;33,0;66,0
+France;DSC Arminia Bielefeld;74,0;25,0;65,0
+France;Dijon FCO;65,0;26,0;72,0
+France;Dinamo Zagreb;70,0;28,0;74,0
+France;Dundee FC;66,5;24,5;58,0
+France;ESTAC Troyes;65,0;26,0;68,0
+France;Eintracht Frankfurt;68,5;21,0;75,5
+France;En Avant de Guingamp;67,0;24,5;72,5
+France;Everton;60,0;24,0;79,0
+France;Extremadura UD;56,0;29,0;67,0
+France;FC Augsburg;77,0;28,0;74,0
+France;FC Barcelona;72,0;23,0;83,0
+France;FC Basel 1893;93,0;22,0;69,0
+France;FC Bayern München;78,0;23,0;83,0
+France;FC Carl Zeiss Jena;87,0;23,0;65,0
+France;FC Girondins de Bordeaux;66,0;20,0;71,0
+France;FC Lorient;64,0;24,0;67,0
+France;FC Metz;74,5;27,0;69,5
+France;FC Nantes;59,0;21,5;68,5
+France;FC Red Bull Salzburg;60,0;19,0;57,0
+France;FC Schalke 04;65,0;27,0;79,0
+France;FC Sion;59,0;19,5;62,0
+France;FC Sochaux-Montbéliard;66,5;20,0;59,0
+France;FC St. Gallen;63,0;20,0;58,0
+France;FC Utrecht;73,0;24,0;70,0
+France;FC Zürich;68,5;19,0;54,0
+France;Fenerbahçe SK;81,0;33,0;81,0
+France;Feyenoord;52,0;28,0;68,0
+France;Fiorentina;69,0;26,0;76,0
+France;Foggia;56,0;20,0;51,0
+France;Forest Green Rovers;72,0;29,0;60,0
+France;Fortuna Sittard;80,0;22,0;66,0
+France;Fulham;73,0;25,5;72,5
+France;GFC Ajaccio;60,0;26,0;62,0
+France;Getafe CF;70,0;25,0;71,0
+France;Grasshopper Club Zürich;62,0;20,0;57,0
+France;Grenoble Foot 38;63,5;28,0;64,0
+France;Guizhou Hengfeng FC;70,0;27,0;71,0
+France;Göztepe SK;74,0;28,0;71,5
+France;Huddersfield Town;87,0;21,0;73,0
+France;Hull City;83,0;24,0;67,0
+France;Juventus;79,0;31,0;85,0
+France;KAA Gent;79,0;24,0;72,0
+France;KAS Eupen;50,0;26,5;65,0
+France;KSV Cercle Brugge;71,0;22,0;67,0
+France;KV Kortrijk;62,0;29,0;70,0
+France;KV Oostende;54,5;28,5;69,5
+France;Kasimpaşa SK;70,5;29,5;72,0
+France;Kristiansund BK;49,0;29,0;64,0
+France;LA Galaxy;60,0;31,5;73,5
+France;LOSC Lille;69,0;22,0;73,0
+France;La Berrichonne de Châteauroux;64,0;27,5;62,0
+France;Le Havre AC;67,0;23,5;64,0
+France;Legia Warszawa;72,0;27,0;70,0
+France;Leicester City;71,0;26,0;75,0
+France;Livorno;57,0;19,0;55,0
+France;MKE Ankaragücü;66,5;28,5;72,5
+France;Manchester City;69,0;23,5;78,5
+France;Manchester United;79,5;23,5;85,5
+France;Medipol Başakşehir FK;78,0;32,0;76,0
+France;Melbourne City FC;82,0;29,0;68,0
+France;Milan;67,0;23,0;80,0
+France;Milton Keynes Dons;65,0;30,0;67,0
+France;Montpellier HSC;66,0;21,0;68,0
+France;Montreal Impact;57,5;33,0;71,0
+France;Moreirense FC;72,0;24,0;70,0
+France;Napoli;80,0;26,0;76,0
+France;Neuchâtel Xamax;65,0;29,0;65,0
+France;New England Revolution;63,0;27,0;69,0
+France;New York Red Bulls;70,0;25,0;67,0
+France;Newcastle United;42,0;27,0;78,0
+France;Nîmes Olympique;67,0;23,0;68,5
+France;OGC Nice;68,0;21,5;71,0
+France;Oldham Athletic;69,5;24,5;64,0
+France;Olympique Lyonnais;76,0;21,0;73,0
+France;Olympique de Marseille;69,0;23,5;75,0
+France;Os Belenenses;66,0;26,0;69,0
+France;PAOK;61,0;28,0;70,0
+France;PSV;59,0;26,0;73,0
+France;Panathinaikos FC;83,0;30,0;75,0
+France;Paris FC;66,5;25,0;62,5
+France;Paris Saint-Germain;73,0;20,0;70,0
+France;Parma;95,0;30,0;74,0
+France;Pescara;53,0;20,0;68,0
+France;RB Leipzig;75,5;19,5;77,0
+France;RC Strasbourg Alsace;60,0;24,0;71,0
+France;RSC Anderlecht;78,0;26,0;74,0
+France;Racing Club de Lens;65,0;21,5;65,5
+France;Rayo Vallecano;70,0;25,0;74,0
+France;Real Madrid;76,0;25,0;85,0
+France;Real Sociedad;65,0;20,5;71,5
+France;Real Sporting de Gijón;41,0;29,0;71,0
+France;Red Star FC;65,0;24,0;64,0
+France;Rio Ave FC;79,0;21,0;64,0
+France;Roma;52,5;23,5;73,0
+France;Royal Antwerp FC;64,0;22,0;70,0
+France;Royal Excel Mouscron;62,5;26,0;66,5
+France;SC Freiburg;77,0;28,0;75,0
+France;SL Benfica;74,0;27,0;75,0
+France;SV Zulte-Waregem;54,5;27,5;68,0
+France;Sampdoria;71,0;24,0;66,5
+France;San Jose Earthquakes;71,0;23,0;58,0
+France;Sarpsborg 08 FF;93,0;24,0;61,0
+France;Seattle Sounders FC;69,0;25,0;62,0
+France;Sevilla FC;67,5;26,0;75,5
+France;Southampton;76,0;19,0;61,0
+France;Southend United;62,5;23,0;61,0
+France;Spartak Moscow;60,0;24,0;76,0
+France;Sporting CP;48,0;33,5;77,5
+France;Sporting Kansas City;76,0;26,0;68,0
+France;Sporting Lokeren;47,0;26,0;68,0
+France;Sporting de Charleroi;57,0;29,5;70,0
+France;St. Patrick's Athletic;45,0;28,0;57,0
+France;Stade Brestois 29;64,0;25,0;66,5
+France;Stade Malherbe Caen;55,0;24,0;68,0
+France;Stade Rennais FC;71,0;22,0;72,0
+France;Stade de Reims;65,5;22,0;65,0
+France;Stevenage;61,0;19,0;53,0
+France;Swindon Town;67,0;31,0;65,0
+France;TSV 1860 München;74,0;24,0;65,0
+France;Tigres U.A.N.L.;73,0;32,0;80,0
+France;Torino;67,0;24,0;76,0
+France;Tottenham Hotspur;79,0;28,0;77,0
+France;Toulouse Football Club;63,0;21,0;69,5
+France;US Orléans Loiret Football;62,0;23,5;63,5
+France;US Salernitana 1919;73,0;28,0;65,0
+France;Valencia CF;70,0;27,0;79,0
+France;Valenciennes FC;66,0;24,0;65,0
+France;VfB Stuttgart;69,0;22,0;80,0
+France;VfL Bochum 1848;58,0;32,0;73,0
+France;VfL Wolfsburg;76,0;26,0;79,0
+France;VfR Aalen;68,0;19,0;58,0
+France;Vitória Guimarães;89,0;28,0;75,0
+France;Waterford FC;78,0;26,0;61,0
+France;Watford;48,5;28,5;77,5
+France;West Ham United;64,0;21,0;77,0
+France;Wigan Athletic;65,0;21,0;69,0
+France;Willem II;77,0;25,0;64,0
+France;Wolverhampton Wanderers;57,0;27,0;77,0
+France;Yeni Malatyaspor;88,0;30,0;69,0
+France;Yeovil Town;77,0;30,0;62,0
+France;Zagłębie Sosnowiec;75,0;23,0;64,0
+France;Çaykur Rizespor;57,0;20,0;58,0
+Germany; SSV Jahn Regensburg;65,0;25,0;66,5
+Germany;1. FC Heidenheim 1846;67,0;24,0;67,0
+Germany;1. FC Kaiserslautern;64,0;22,0;65,0
+Germany;1. FC Köln;67,0;26,5;72,5
+Germany;1. FC Magdeburg;64,5;23,0;66,5
+Germany;1. FC Nürnberg;64,5;22,5;69,0
+Germany;1. FC Union Berlin;65,0;23,0;69,0
+Germany;1. FSV Mainz 05;66,5;23,0;70,0
+Germany;AS Monaco;78,0;21,0;76,0
+Germany;AZ Alkmaar;59,0;20,0;64,0
+Germany;Aalborg BK;75,0;21,0;66,0
+Germany;Adelaide United;70,0;31,0;71,0
+Germany;Arsenal;58,0;26,0;84,0
+Germany;Atalanta;76,0;23,0;72,0
+Germany;Atiker Konyaspor;64,0;27,0;69,0
+Germany;Atlanta United;67,5;27,5;69,5
+Germany;BB Erzurumspor;69,5;27,0;66,5
+Germany;Barnsley;74,0;22,0;63,0
+Germany;Bayer 04 Leverkusen;69,0;24,0;81,0
+Germany;Beşiktaş JK;68,0;25,0;75,0
+Germany;Borussia Dortmund;73,0;22,5;76,5
+Germany;Borussia Mönchengladbach;64,0;25,0;75,0
+Germany;Bradford City;77,0;24,0;62,0
+Germany;Brighton & Hove Albion;63,0;27,0;77,0
+Germany;Bristol City;52,0;30,0;69,0
+Germany;Bristol Rovers;70,0;21,0;59,0
+Germany;Brøndby IF;65,0;27,0;67,0
+Germany;Carpi;63,5;23,0;66,0
+Germany;Charlton Athletic;33,0;25,0;70,0
+Germany;Chelsea;67,0;25,0;82,0
+Germany;Chicago Fire;36,0;33,0;80,0
+Germany;Crystal Palace;76,0;22,0;79,0
+Germany;DSC Arminia Bielefeld;69,0;24,5;67,5
+Germany;Eintracht Braunschweig;64,0;22,0;64,0
+Germany;Eintracht Frankfurt;60,0;25,5;72,0
+Germany;FC Admira Wacker Mödling;50,0;26,0;68,0
+Germany;FC Augsburg;55,0;24,0;70,0
+Germany;FC Barcelona;38,0;26,0;89,0
+Germany;FC Bayern München;65,5;21,0;72,5
+Germany;FC Carl Zeiss Jena;63,0;23,0;62,5
+Germany;FC Energie Cottbus;70,0;25,0;61,0
+Germany;FC Erzgebirge Aue;67,5;24,5;67,0
+Germany;FC Groningen;57,0;20,0;65,5
+Germany;FC Hansa Rostock;66,0;24,0;63,0
+Germany;FC Ingolstadt 04;65,5;24,0;66,0
+Germany;FC Luzern;60,5;22,0;65,0
+Germany;FC Red Bull Salzburg;60,0;30,5;72,5
+Germany;FC Schalke 04;66,5;24,5;73,5
+Germany;FC St. Pauli;67,5;25,5;67,5
+Germany;FC Utrecht;69,0;24,0;67,0
+Germany;FC Wacker Innsbruck;76,5;23,0;67,5
+Germany;FC Würzburger Kickers;68,0;23,0;65,0
+Germany;FSV Zwickau;67,0;23,0;65,0
+Germany;Foggia;77,0;28,0;73,0
+Germany;Fortuna Düsseldorf;66,0;24,0;71,0
+Germany;Fulham;69,0;23,0;65,5
+Germany;Galatasaray SK;87,0;24,0;74,0
+Germany;Genoa;61,0;23,0;70,0
+Germany;Gillingham;55,0;26,0;66,0
+Germany;Hallescher FC;66,5;23,0;63,5
+Germany;Hamburger SV;63,0;23,0;66,0
+Germany;Hamilton Academical FC;;25,0;62,0
+Germany;Hannover 96;65,0;22,0;73,0
+Germany;Heracles Almelo;54,0;25,0;63,0
+Germany;Hertha BSC;70,0;21,0;69,0
+Germany;Holstein Kiel;66,0;22,0;65,5
+Germany;Huddersfield Town;71,0;27,0;73,0
+Germany;IK Start;52,0;30,0;65,0
+Germany;Juventus;61,5;27,5;82,5
+Germany;KAS Eupen;71,0;30,0;68,0
+Germany;KFC Uerdingen 05;70,0;27,0;64,0
+Germany;Karlsruher SC;68,0;25,0;64,5
+Germany;Kayserispor;49,0;32,0;70,0
+Germany;Korona Kielce;71,0;27,0;62,0
+Germany;LASK Linz;65,0;20,0;61,0
+Germany;Lokomotiv Moscow;52,0;30,0;81,0
+Germany;MSV Duisburg;65,0;24,0;68,0
+Germany;Manchester City;80,0;24,5;85,0
+Germany;Melbourne Victory;45,0;32,0;69,0
+Germany;Napoli;84,0;24,0;75,0
+Germany;New York Red Bulls;77,0;28,0;72,0
+Germany;Norwich City;72,0;25,0;70,0
+Germany;Nottingham Forest;35,0;27,0;70,0
+Germany;PSV;65,0;29,0;77,0
+Germany;Paris Saint-Germain;76,0;22,5;80,0
+Germany;Philadelphia Union;69,0;24,0;64,0
+Germany;Pogoń Szczecin;70,0;28,0;67,0
+Germany;Queens Park Rangers;66,5;24,5;70,0
+Germany;RB Leipzig;61,0;18,0;62,0
+Germany;RC Celta;58,0;21,0;64,0
+Germany;Real Madrid;64,0;28,0;90,0
+Germany;SC Fortuna Köln;67,0;26,0;63,0
+Germany;SC Freiburg;65,0;24,0;72,0
+Germany;SC Paderborn 07;66,0;24,0;67,5
+Germany;SC Preußen Münster;60,5;22,5;62,5
+Germany;SG Dynamo Dresden;65,5;24,5;68,0
+Germany;SG Sonnenhof Großaspach;68,0;23,0;63,0
+Germany;SK Sturm Graz;65,0;22,0;60,0
+Germany;SV Darmstadt 98;67,5;26,0;68,5
+Germany;SV Meppen;69,0;24,0;63,0
+Germany;SV Sandhausen;66,0;25,0;67,5
+Germany;SV Wehen Wiesbaden;67,0;25,0;66,0
+Germany;SV Werder Bremen;64,5;21,0;67,0
+Germany;SV Zulte-Waregem;18,0;20,0;58,0
+Germany;San Jose Earthquakes;53,0;29,0;70,0
+Germany;Sint-Truidense VV;40,0;29,0;66,0
+Germany;Sivasspor;67,0;24,0;62,0
+Germany;SpVgg Greuther Fürth;68,0;22,0;65,0
+Germany;SpVgg Unterhaching;70,0;23,5;64,0
+Germany;SønderjyskE;43,0;28,0;67,0
+Germany;TSG 1899 Hoffenheim;68,0;24,0;77,0
+Germany;TSV 1860 München;65,0;24,5;62,0
+Germany;Tianjin TEDA FC;70,0;30,0;74,0
+Germany;UD Las Palmas;82,0;27,0;70,0
+Germany;VVV-Venlo;63,5;26,5;67,0
+Germany;VfB Stuttgart;66,0;29,0;75,0
+Germany;VfL Bochum 1848;69,5;24,5;68,0
+Germany;VfL Osnabrück;66,0;25,0;62,5
+Germany;VfL Sportfreunde Lotte;65,0;22,0;62,0
+Germany;VfL Wolfsburg;66,5;23,0;70,5
+Germany;VfR Aalen;70,0;23,0;64,0
+Germany;Vissel Kobe;76,0;33,0;78,0
+Germany;Western Sydney Wanderers;66,5;29,5;71,0
+Germany;Willem II;52,0;22,0;68,0
+Germany;Wisła Płock;57,0;24,0;63,0
+Germany;Wolfsberger AC;64,0;29,0;69,0
+Germany;Yeni Malatyaspor;72,0;28,0;72,0
+Germany;Zagłębie Sosnowiec;68,0;26,0;64,0
+Germany;Çaykur Rizespor;61,0;26,5;68,5
+Italy;1. FSV Mainz 05;68,0;28,0;73,0
+Italy;AC Horsens;68,0;23,0;54,0
+Italy;AS Monaco;61,0;23,0;75,0
+Italy;Ascoli;64,0;25,0;66,0
+Italy;Atalanta;55,0;22,0;69,5
+Italy;Benevento;67,0;28,0;70,0
+Italy;Bologna;71,0;24,0;73,0
+Italy;Brescia;69,0;23,5;65,5
+Italy;Brighton & Hove Albion;67,0;29,0;73,0
+Italy;Bristol City;66,0;31,0;69,0
+Italy;Cagliari;66,0;29,5;72,0
+Italy;Carpi;62,0;26,0;64,0
+Italy;Chelsea;75,0;26,0;79,0
+Italy;Chievo Verona;63,5;27,0;73,0
+Italy;Cittadella;67,0;25,0;66,0
+Italy;Cosenza;62,0;25,0;63,0
+Italy;Crotone;66,5;25,0;66,0
+Italy;Córdoba CF;53,0;33,0;64,0
+Italy;Deportivo de La Coruña;68,0;23,0;68,0
+Italy;Empoli;51,0;25,5;71,0
+Italy;FC Basel 1893;82,0;21,0;69,0
+Italy;FC Hansa Rostock;52,0;23,0;58,0
+Italy;FC Lugano;69,0;21,0;57,0
+Italy;FC Schalke 04;77,0;30,0;79,0
+Italy;FC Sion;69,0;30,0;67,0
+Italy;Fiorentina;64,5;21,5;74,0
+Italy;Foggia;64,0;26,0;66,0
+Italy;Frosinone;67,0;26,0;70,0
+Italy;Genoa;73,0;26,5;74,5
+Italy;Gimnàstic de Tarragona;80,0;26,0;66,0
+Italy;Hellas Verona;65,0;25,0;69,0
+Italy;Inter;58,5;29,5;76,0
+Italy;Jiangsu Suning FC;69,5;31,5;78,0
+Italy;Juventus;63,0;25,0;82,0
+Italy;Lazio;67,0;22,0;72,0
+Italy;Lecce;66,0;28,0;66,0
+Italy;Legia Warszawa;89,0;28,0;69,0
+Italy;Livingston FC;69,0;30,0;65,0
+Italy;Livorno;64,0;25,0;64,0
+Italy;MKE Ankaragücü;77,0;30,0;74,0
+Italy;Manchester United;73,0;28,0;76,0
+Italy;Medipol Başakşehir FK;68,0;32,0;70,0
+Italy;Melbourne City FC;44,0;34,0;61,0
+Italy;Milan;75,0;24,0;77,0
+Italy;Montreal Impact;69,0;33,0;64,0
+Italy;Napoli;71,0;23,0;78,0
+Italy;Neuchâtel Xamax;18,0;36,0;53,0
+Italy;OGC Nice;76,0;27,0;83,0
+Italy;PEC Zwolle;57,5;19,0;62,0
+Italy;Padova;67,5;24,0;66,0
+Italy;Palermo;71,0;22,0;65,0
+Italy;Panathinaikos FC;67,0;26,0;71,0
+Italy;Paris Saint-Germain;59,0;32,5;87,0
+Italy;Parma;74,0;28,0;71,0
+Italy;Perugia;66,0;23,5;64,0
+Italy;Pescara;66,0;24,0;66,0
+Italy;Reading;59,0;30,0;70,0
+Italy;Real Valladolid CF;88,0;22,0;72,0
+Italy;Roma;67,0;25,0;78,0
+Italy;SD Huesca;74,0;26,0;72,0
+Italy;SK Sturm Graz;54,0;19,0;55,0
+Italy;SPAL;71,0;24,0;73,0
+Italy;SV Werder Bremen;52,0;27,0;72,0
+Italy;Sampdoria;70,0;25,0;72,5
+Italy;Sassuolo;66,0;24,0;72,0
+Italy;Sheffield Wednesday;83,0;28,0;74,0
+Italy;Southampton;67,0;26,0;77,0
+Italy;Spartak Moscow;69,0;31,0;76,0
+Italy;Spezia;65,5;24,0;66,0
+Italy;Sporting CP;52,0;28,5;78,5
+Italy;Sporting de Charleroi;31,0;24,5;63,0
+Italy;TSG 1899 Hoffenheim;74,0;25,0;77,0
+Italy;TSV 1860 München;;27,0;62,0
+Italy;Torino;71,5;26,5;75,5
+Italy;Toronto FC;88,0;31,0;82,0
+Italy;Trabzonspor;81,0;24,0;65,0
+Italy;Tranmere Rovers;50,0;19,0;57,0
+Italy;US Cremonese;67,0;30,0;68,0
+Italy;US Salernitana 1919;62,0;28,0;68,0
+Italy;Udinese;71,5;21,5;71,5
+Italy;Valencia CF;74,0;25,0;77,0
+Italy;Venezia FC;65,0;26,0;66,0
+Italy;Villarreal CF;57,5;31,5;75,5
+Italy;Waasland-Beveren;56,0;25,0;65,0
+Italy;Watford;59,5;26,0;74,0
+Italy;West Ham United;59,0;30,0;77,0
+Italy;Yeovil Town;76,0;17,0;54,0
+Italy;Çaykur Rizespor;55,0;26,0;68,0
